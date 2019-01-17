@@ -31,7 +31,7 @@ This is all about the installation itself, the rest is described in the configur
 - History of Upgrades <br>
 <br>
 <br>
-<b> <span style = "text-decoration: underline"> Opportunities </ span> </b> <br>
+<b> <span style = "text-decoration: underline"> Abilities </ span> </b> <br>
 - It can work independently regardless of your website, such as Webshop
 - Option to Add and Remove Non-Credential Upgrade Object <br>
 - Option to add and remove all upgrade items with default success and 50 cost (this is a test option not to add items one by one when you want to test a selection of items before you add them officially) <br>
