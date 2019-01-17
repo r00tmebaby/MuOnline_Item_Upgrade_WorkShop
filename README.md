@@ -46,7 +46,9 @@ This is all about the installation itself, the rest is described in the configur
 <br>
 <br>
 <b> <span style = "text-decoration: underline"> Live Demo </span> </b> <br>
-<a href="http://185.40.20.149" target="_blank" class="link link--external" rel="nofollow noopener"> Item Upgrade Workshop v1.0 </a> User: <b> test </b> / <b> Password: </b> Test </b> <br>
+<a href="http://185.40.20.149" target="_blank" class="link link--external" rel="nofollow noopener"> Item Upgrade Workshop v1.0 </a> <b>User: </b> test  / <b> Password: </b> Test  <br>
+ More Information, Updates and Discussions about the system you can find here <a href="https://darksteam.net/threads/item-upgrade-warehouse.24218/"> DarksTeam Forum </a>
 <br>
 
 </article>
+
