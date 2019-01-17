@@ -10,11 +10,13 @@
 - Set an administrator account using the $ option ['admin_acc'] <br>
 This is all about the installation itself, the rest is described in the configuration file itself
 <br>
+<br>
 <b> <span style = "text-decoration: underline"> Design </ span> <br>
 - </b> Fully dynamic (responsive) design with help of bootstrap <br>
 - Dynamics in message and animation playback when upgrading an item <br>
 - Dynamic Search for Suggested Items according to the introduction <br>
 - The Google Charts API has been used to render some of the tables and schematics, leaving some just to keep their place and an example of how they work so you can later use the logic and add what you want.
+<br>
 <br>
 <b> <span style = "text-decoration: underline"> Modules </span> </b> <br>
 - Private login
@@ -24,6 +26,7 @@ This is all about the installation itself, the rest is described in the configur
 - Sending and receiving messages to admin
 - Payment methods * Paypal, Paywall, E-pay, Mobio, PayGol, Fortumo (implemented by the payment system I made for DTweb) <br>
 - History of Upgrades <br>
+<br>
 <br>
 <b> <span style = "text-decoration: underline"> Opportunities </ span> </b> <br>
 - It can work independently regardless of your website, such as Webshop
