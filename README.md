@@ -35,8 +35,7 @@ This is all about the installation itself, the rest is described in the configur
 - It can work independently regardless of your website, such as Webshop
 - Option to Add and Remove Non-Credential Upgrade Object <br>
 - Option to add and remove all upgrade items with default success and 50 cost (this is a test option not to add items one by one when you want to test a selection of items before you add them officially) <br>
-- Ability to remove and / or add any option that can be added to a particular item (luck, skill, excellent, ancient, level, option) <br>
-<b> - </b> <b> Add cost and chance of success to each specific item for each item </ b> </ span> <span style = "color: rgb > <br>
+- Ability to remove and / or add any option that can be added to a particular item (luck, skill, excellent, ancient, level, option) <br> - Add cost and chance of success to each specific item for each item  <span style = "color: rgb > <br>
 - Option to reduce the object level in case of unsuccessful upgrade (for example, if 12 will drop it from 0 to +11) <br>
 - An option to delete an item if the upgrade failed
 <br>
