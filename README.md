@@ -39,7 +39,6 @@ This is all about the installation itself, the rest is described in the configur
 - Option to reduce the object level in case of unsuccessful upgrade (for example, if 12 will drop it from 0 to +11) <br>
 - An option to delete an item if the upgrade failed
 <br>
-<b> <span style = "text-decoration: underline"> Planned but NOT implemented </span> </b> <br>
 - Quest System / I did not even have a decision on what to do, but there was something in my head that had quests that were only related to the sets (regardless of the options), there were slots in which you could put part of a set and when it is filled to give you a bonus set by the administrator (in the form of an upgrade of one set free or a certain option). Then a new set of quests opens
 - Betting Games / I did not think about exactly what games to play on this topic
 <br>
