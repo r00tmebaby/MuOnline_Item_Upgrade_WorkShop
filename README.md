@@ -43,4 +43,4 @@ This is all about the installation itself, the rest is described in the configur
 <a href="http://185.40.20.149" target="_blank" class="link link--external" rel="nofollow noopener"> Item Upgrade Workshop v1.0 </a> User: <b> test </b> / <b> Password: </b> Test </b> <br>
 <br>
 
-</ article
+</article>
